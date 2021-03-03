@@ -1,0 +1,90 @@
+.div1{
+    color:purple;
+    background-color: pink;
+    height:190px;
+    overflow: auto;
+}
+.div2{
+    color: blue;
+    background-color: yellow;
+}
+
+.div3{
+    color: white;
+    background-color: turquoise;
+}
+.div4{
+    color:rgb(244, 245, 245);
+    background-color: rgb(53, 2, 63);
+    height: 150px
+}
+.div5{
+    width:500px;
+    height:200px;
+}
+.div6{
+    float: right;
+    width: 800px;
+
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 500px;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: black;
+  }
+
+  .buttonButton {
+    background-color: pink;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 650px;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid pink;
+  }
+  
+  .button2:hover {
+    background-color: pink;
+    color: black;
+  }
+  .div7{
+      float: right;
+      background-color: yellow;
+      width:655px;
+  }
+  .div8{
+      float: left;
+      background-color: yellow;
+      width:655px;
+  }
